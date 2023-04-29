@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+/* text */
+
+.txt-color-primary {
+    color: #735c76;
+}
+
+.txt-color-secondary {
+    color: #b191a9;
+}
+
+
+
+/*backgrounds*/
+
+.background-color-primary {
+    background-color: #735c76;
+}
+
+.background-color-secondary {
+    background-color: #b191a9;
+}
